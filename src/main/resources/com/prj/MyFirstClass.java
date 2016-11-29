@@ -7,5 +7,12 @@ public class MyFirstClass {
 		System.out.println("Hi.....");
 
 	}
+	
+	public void test() {
+		while(true) 
+			int i = 1;
+		
+		System.out.println("Hi.....");
+	}
 
 }
